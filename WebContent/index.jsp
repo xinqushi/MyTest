@@ -5,8 +5,13 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
+<script type="text/javascript">
+	var v=0;
+</script>
 </head>
 <body>
-Hello 这是第二个修改
+
+Hello 第一个修改
+
 </body>
 </html>
